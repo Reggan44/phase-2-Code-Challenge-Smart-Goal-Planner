@@ -43,7 +43,7 @@ function App() {
   }
 
   return (
-  <div className="min-h-screen bg-blue-100 text-gray-800 p-6">
+  <div className="min-h-screen bg-Charleston Green -100 text-gray-800 p-6">
     <h1 className="text-3xl font-bold mb-6 text-center text-blue-600"> Smart Goal Planner</h1>
     <div className="max-w-4xl mx-auto space-y-6">
       <Overview goals={goals} />

@@ -14,7 +14,7 @@ function GoalCard({ goal, onUpdate, onDelete }) {
   const isWarning = daysLeft <= 30 && !isCompleted;
 
   return (
-    <div className="bg-white p-4 rounded-lg shadow hover:shadow-md transition">
+    <div className="bg-Charleston Green  p-4 rounded-lg shadow hover:shadow-md transition">
   <h2 className="text-xl font-semibold text-gray-800">{goal.name}</h2>
   <p className="text-sm text-gray-500 mb-2">{goal.category}</p>
   <p className="mb-1">Target: <span className="font-medium">${goal.targetAmount}</span></p>
