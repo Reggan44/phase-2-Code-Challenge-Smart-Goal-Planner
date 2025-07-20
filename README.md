@@ -22,4 +22,8 @@ npm json-server --watch db.json
 This will start the fake API server at http://localhost:3000/goals
 
  How to Start the frontend : npm start
+This will start the fake API server at http://localhost:3000/goals
+
+ How to Start the frontend : npm start
+
 
