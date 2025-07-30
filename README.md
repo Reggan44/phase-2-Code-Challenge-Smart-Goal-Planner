@@ -26,10 +26,3 @@ A simple, elegant savings goal planner built with **React**, styled using **Tail
 | **JavaScript (ES6+)** | Core logic and state management |
 
 ---
-
-##  Screenshots
-
-> Add screenshots here when ready, showing:
-> - The dashboard
-> - Add Goal form
-> - Goal cards with progress bars
