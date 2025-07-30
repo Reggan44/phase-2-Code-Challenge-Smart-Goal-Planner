@@ -26,5 +26,5 @@ A simple, elegant savings goal planner built with **React**, styled using **Tail
 ---
 
 ##  live demo
-**frontend**(https://phase-2-code-challenge-smart-goal-p.vercel.app)
-
+**Frontend**(https://phase-2-code-challenge-smart-goal-p.vercel.app)
+**Backend**(https://goal-planner-hxw8.onrender.com)
