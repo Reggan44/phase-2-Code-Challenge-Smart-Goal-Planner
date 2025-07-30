@@ -22,7 +22,9 @@ A simple, elegant savings goal planner built with **React**, styled using **Tail
 |------------|-------------|
 | **React** | Frontend framework used for building interactive UI |
 | **Tailwind CSS** | Utility-first CSS framework for fast styling |
-| **JSON Server** | Mock REST API to simulate backend CRUD operations |
-| **JavaScript (ES6+)** | Core logic and state management |
 
 ---
+
+##  live demo
+**frontend**(https://phase-2-code-challenge-smart-goal-p.vercel.app)
+
